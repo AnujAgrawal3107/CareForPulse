@@ -3,7 +3,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications.
+A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications. The backend of application is powered by NodeJS while the frontend is taken care by NextJS framework.
 
 
 
